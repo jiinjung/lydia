@@ -1,4 +1,8 @@
-# Three.js Journey
+# Lydia
+
+## Live
+check out live website on vercel
+https://lydia.vercel.app/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
