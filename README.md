@@ -1,5 +1,6 @@
 # Lydia
 
+![lydia](https://user-images.githubusercontent.com/87342008/226774825-8407cc20-9b8d-48cc-8cb5-c251562307be.png)
 ## Live
 check out live website on vercel
 https://lydia.vercel.app/
@@ -18,4 +19,3 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-# lydia
