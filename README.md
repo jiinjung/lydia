@@ -1,12 +1,12 @@
 # Lydia
-
-![lydia](https://user-images.githubusercontent.com/87342008/226774825-8407cc20-9b8d-48cc-8cb5-c251562307be.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/87342008/226774825-8407cc20-9b8d-48cc-8cb5-c251562307be.png" width="50%" >
+</p>
 
 # Eve
-
-![eve](https://user-images.githubusercontent.com/87342008/227112560-caa3ad30-9995-44c0-85d6-7671b1ecf76e.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/87342008/227112560-caa3ad30-9995-44c0-85d6-7671b1ecf76e.png" width="50%" >
+</p>
 
 
 ## Live
